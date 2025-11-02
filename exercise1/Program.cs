@@ -11,6 +11,3 @@ age = int.Parse(Console.ReadLine());
 
 Console.WriteLine($"Hello {name}, you are {age} years old.");
 
-// I just put it so the console window doesn't close immediately
-Console.ReadKey();
-
